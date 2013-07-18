@@ -1,0 +1,7 @@
+#videoListDiv {
+    display: block;
+}
+
+#downloadListDiv {
+    display: none;
+}
