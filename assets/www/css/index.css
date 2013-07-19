@@ -1,7 +1,10 @@
-#videoListDiv {
-    display: block;
+.videoList {}
+.downloadList {}
+.manageList {}
+.hide {
+	display:none;
 }
 
-#downloadListDiv {
-    display: none;
+.swipe {
+	background-color: #7ACEF4;
 }
